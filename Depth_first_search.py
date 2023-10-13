@@ -32,5 +32,3 @@ def recursive_dfs(graph, source):
 
 # iterative_dfs(graph, 'A')
 # recursive_dfs(graph, 'A')
-
-# Reference: https://www.youtube.com/watch?v=tWVWeAqZ0WU (freeCodeCamp)
